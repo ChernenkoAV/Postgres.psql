@@ -7,6 +7,7 @@
         <Description>The package contains the PostgreSql 16.11 win-x64 client part in the form of psql, pg_dump, pg_dumpall, pg_restore. Applies to inline script tasks when building msbuild and etc.</Description>
         <PackageTags>postgres;win;x64;psql;pg_dump;pg_dumpall;pg_restore</PackageTags>
         <PackageProjectUrl>https://github.com/ChernenkoAV/Postgres.psql</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ChernenkoAV/Postgres.psql.git</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageIcon>elephant.png</PackageIcon>
         <Authors>ChernenkoAV</Authors>
