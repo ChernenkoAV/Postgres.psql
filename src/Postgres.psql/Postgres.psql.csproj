@@ -2,9 +2,9 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <PackageId>Postgres.psql</PackageId>
-        <PackageVersion>16.4.0.0</PackageVersion>
-        <Title>Postgres 16.4 win-x64 psql pg_dump pg_dumpall pg_restore</Title>
-        <Description>The package contains the PostgreSql 16.4 win-x64 client part in the form of psql, pg_dump, pg_dumpall, pg_restore. Applies to inline script tasks when building msbuild and etc.</Description>
+        <PackageVersion>16.11.0.0</PackageVersion>
+        <Title>Postgres 16.11 win-x64 psql pg_dump pg_dumpall pg_restore</Title>
+        <Description>The package contains the PostgreSql 16.11 win-x64 client part in the form of psql, pg_dump, pg_dumpall, pg_restore. Applies to inline script tasks when building msbuild and etc.</Description>
         <PackageTags>postgres;win;x64;psql;pg_dump;pg_dumpall;pg_restore</PackageTags>
         <PackageProjectUrl>https://github.com/ChernenkoAV/Postgres.psql</PackageProjectUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
